@@ -1,0 +1,6 @@
+{
+  "name": "CSI Sense",
+  "description": "WiFi CSI Signal Monitoring, ESP32 Sampling Tuning & PyTorch Action Inference",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
